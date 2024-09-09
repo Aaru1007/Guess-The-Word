@@ -12,7 +12,7 @@ git clone https://github.com/Aaru1007/Guess-The-Word.git
 
 For the **back-end**, install the dependencies once via the terminal.
 ```bash
-cd reactjs/server
+cd server
 npm install
 ```
 
