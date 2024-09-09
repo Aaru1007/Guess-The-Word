@@ -16,7 +16,7 @@ cd server
 npm install
 ```
 
-Create .env file in Backend folder and set the below code.
+Create .env file in server folder and set the below code.
 ```bash
 FRONTEND_URL = 
 MONGODB_URL =
@@ -30,11 +30,11 @@ npm run start
 
 For the **front-end**, install the dependencies once via the terminal.
 ```bash
-cd reactjs
+cd src
 npm install
 ```
 
-If you want to run the **front-end**, go to *frontend* folder via the terminal.
+If you want to run the **front-end**, go to *src* folder via the terminal.
 ```bash
 npm run dev
 ```
